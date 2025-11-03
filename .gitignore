@@ -1,0 +1,9 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environmentenv/
+.venv/
+
+# Editor backup files
+*~
